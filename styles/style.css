@@ -260,6 +260,7 @@
     top: 0;
     right: -210px;
     background-image: url(../images/triangle.svg);
+    background-size: contain;
 }
 
 .footer {
@@ -297,14 +298,6 @@
     font-weight: normal;
 }
 
-.footer__column_content_info {
-    
-}
-
-.footer__column_content_social {
-    
-}
-
 .footer__column-heading {
     margin-top: 0;
     margin-bottom: 20px;
@@ -321,7 +314,7 @@
     list-style: none;
 }
 
-.footer__column-link_list {
+.footer__column-link {
     margin: 0;
     line-height: 30px;
     font-size: 18px;
