@@ -1,0 +1,9 @@
+@import url(../cards/cards.css);
+
+.technics {
+    padding-top: 100px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
