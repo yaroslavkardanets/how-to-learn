@@ -1,6 +1,7 @@
 .header__main-illustration {
-    box-sizing: border-box;
-    width: 765px;
+    object-fit: cover;
+    object-position: top;
+    max-width: 765px;
     height: 608px;
     position: absolute;
     right: 0;

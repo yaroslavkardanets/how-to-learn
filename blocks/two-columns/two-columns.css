@@ -7,6 +7,5 @@
     display: flex;
     justify-content: space-between;  
     margin: 0 auto;  
-    width: 80%;
-    min-height: 210px;
+    max-width: 80%;
 }

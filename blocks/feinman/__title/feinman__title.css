@@ -1,7 +1,7 @@
 .feinman__title {
     text-align: center;
     margin: 0 auto 70px auto;
-    width: 648px;
+    max-width: 648px;
     align-self: flex-start;
     line-height: 1.15;
     font-size: 120px;
