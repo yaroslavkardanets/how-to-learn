@@ -9,6 +9,7 @@
 @import url(./__title/khan__title.css);
 
 .khan {
+    margin-top: 100px;
     padding-top: 105px;
     background-color: #F2F2F2;
     display: flex;
